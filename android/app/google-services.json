@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "960782613323",
+    "project_id": "senior-project-e091b",
+    "storage_bucket": "senior-project-e091b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960782613323:android:fad1eb4e3e3b67ef2486ce",
+        "android_client_info": {
+          "package_name": "com.example.audio_to_sign_language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960782613323-eqfcif51pqbj19cbrrurs1u35bps10i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3M4JmuF3f3ckvthH7GtL6lttkjULREdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960782613323-eqfcif51pqbj19cbrrurs1u35bps10i7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960782613323-fud2vn77kqtne013ssv75jp6kpail060.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
