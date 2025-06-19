@@ -84,7 +84,7 @@ class HomeController extends GetxController {
   late String                     _filePath;
 
   // AssemblyAI config
-  static const _apiKey        = '3f3696d6aedc4276b0dd072ffdf84341';
+  static const _apiKey        = '';
   static const _uploadUrl     = 'https://api.assemblyai.com/v2/upload';
   static const _transcriptUrl = 'https://api.assemblyai.com/v2/transcript';
 
